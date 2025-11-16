@@ -12,3 +12,6 @@ This uses jszip to load assets from an ASSETS.zip, just because it is less files
 -Best Functional version (non minified) at https://tiny-biscochitos-ad028f.netlify.app/
 =Made as an addition to https://js-launcher.on.websim.com/ (Please check out)
 -Only remaining copy of the original c0.0.12a project currently at https://euphonious-sprite-e0831d.netlify.app/ (it really sucks)
+
+Copy of lost preclassic shader build 
+<img width="1471" height="1317" alt="lost image" src="https://github.com/user-attachments/assets/83594bb7-d38c-4307-b53d-bf08740a4410" />
