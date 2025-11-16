@@ -7,4 +7,8 @@ Then I experimented with the steve model stuff but that never really worked.
 
 This uses jszip to load assets from an ASSETS.zip, just because it is less files to upload.
 
-Originally Made at https://js-09.netlify.app/ (horrible)
+-Originally Made at https://js-09.netlify.app/ (horrible)
+-Working version of "Zombie" logic at https://0011a.netlify.app/
+-Best Functional version (non minified) at https://tiny-biscochitos-ad028f.netlify.app/
+=Made as an addition to https://js-launcher.on.websim.com/ (Please check out)
+-Only remaining copy of the original c0.0.12a project currently at https://euphonious-sprite-e0831d.netlify.app/ (it really sucks)
