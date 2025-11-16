@@ -1,3 +1,6 @@
+THIS VERSION IS HOSTED AT https://009-final.netlify.app
+
+
 Long in progress browser remake of c0.0.9a, based off of real java source code.
 
 Started roughly 7 months ago with a c0.0.12a remake, barely functional and now lost somewhere on my pc, 
