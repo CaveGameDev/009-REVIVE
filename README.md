@@ -12,9 +12,13 @@ This uses jszip to load assets from an ASSETS.zip, just because it is less files
 Fixed particles kinda and minified from roughly 20 files to about 6, also added music.
 
 -Originally Made at https://js-09.netlify.app/ (horrible)
+
 -Working version of "Zombie" logic at https://0011a.netlify.app/
--Best Functional version (non minified) at https://tiny-biscochitos-ad028f.netlify.app/
+
+-Best Functional version (non minified) at https://tiny-biscochitos-ad028f.netlify.app/, also has 3rd person when pressing 5
+
 =Made as an addition to https://js-launcher.on.websim.com/ (Please check out)
+
 -Only remaining copy of the original c0.0.12a project currently at https://euphonious-sprite-e0831d.netlify.app/ (it really sucks)
 
 Copy of lost preclassic shader build 
