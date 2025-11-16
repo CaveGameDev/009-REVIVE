@@ -7,3 +7,4 @@ Then I experimented with the steve model stuff but that never really worked.
 
 This uses jszip to load assets from an ASSETS.zip, just because it is less files to upload.
 
+Originally Made at https://js-09.netlify.app/ (horrible)
