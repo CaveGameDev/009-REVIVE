@@ -15,3 +15,9 @@ This uses jszip to load assets from an ASSETS.zip, just because it is less files
 
 Copy of lost preclassic shader build 
 <img width="1471" height="1317" alt="lost image" src="https://github.com/user-attachments/assets/83594bb7-d38c-4307-b53d-bf08740a4410" />
+
+
+First Build Test
+
+
+![castle5](https://github.com/user-attachments/assets/3889b2b8-a449-43bb-88f7-a0119a848aa2)
