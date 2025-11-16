@@ -36,3 +36,8 @@ First Build Test
 All availible blocks 
 
 <img width="643" height="499" alt="image" src="https://github.com/user-attachments/assets/20a2cec2-560f-43e1-8bf2-47ccf9780701" />
+
+
+Odd 3rd person
+
+<img width="599" height="700" alt="image" src="https://github.com/user-attachments/assets/b72bc5f6-c1da-4d79-8671-f72172c972f9" />
