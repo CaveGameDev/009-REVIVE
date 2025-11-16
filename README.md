@@ -9,6 +9,7 @@ further built into rd-131648 or whatever, which is currently hosted at https://c
 Then I experimented with the steve model stuff but that never really worked.
 
 This uses jszip to load assets from an ASSETS.zip, just because it is less files to upload.
+Fixed particles kinda and minified from roughly 20 files to about 6, also added music.
 
 -Originally Made at https://js-09.netlify.app/ (horrible)
 -Working version of "Zombie" logic at https://0011a.netlify.app/
